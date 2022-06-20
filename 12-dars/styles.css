@@ -1,0 +1,581 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,700;1,600&display=swap');
+*{
+    padding: 0;
+    margin: 0 auto;
+    box-sizing: border-box;
+    font-family: 'Playfair Display', serif;
+}
+body{
+    background: #E5E5E5;
+}
+.container{
+    margin: 0 auto;
+    max-width: 1600px;
+    background-color: #fff;
+    height:5588px;
+}
+.navigation{
+   display: flex;
+   padding-top: 45px;
+   padding-left: 191px;
+   align-items: center;
+   justify-content: space-around;
+}
+ul{
+    display: flex;
+    padding-left: 515px;
+}
+li {
+ list-style: none;
+}
+a{
+    text-decoration: none;
+}
+.nav_link1{
+    color: #202336;
+    margin-left: 35px;
+    font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 19px;
+}
+.nav_link2{
+ color: #B8BECD;
+ margin-left: 34px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 19px;
+}
+.nav_link5{
+    border: 1px solid #FB8F1D;
+    border-radius: 8px;
+    padding-top: 8px ;
+    padding-bottom: 8px;
+    padding-left: 46px;
+    padding-right: 46px;
+    border-radius: 8px;
+    color: #FB8F1D;
+    margin-left: 34px;
+    font-family: 'Inter';
+ font-style: normal;
+ font-size: 15px;
+}
+.nav_link6{
+    border: 1px solid #FB8F1D; 
+    border-radius: 8px;
+    padding-top: 8px ;
+    padding-bottom: 8px;
+    padding-left: 36px;
+    padding-right: 36px;
+    background: #FB8F1D;
+    color: #ffff;
+    margin-left: 18px;
+    font-family: 'Inter';
+font-style: normal;
+font-size: 15px;
+}
+#sam{
+    font-family: 'Playfair Display';
+font-style: normal;
+font-weight: 700;
+font-size: 64px;
+line-height: 80px;
+/* or 125% */
+padding-top: 114px;
+color: #202336;
+padding-left: 189px;
+}
+#mon{
+    position: relative;
+    left: 657px;
+   bottom: 149px;
+}
+.gul{
+    font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 22px;
+line-height: 27px;
+/* identical to box height */
+padding-top: 74px;
+padding-left: 191px;
+color: #202336;
+}
+.tel{
+    padding-left: 191px;
+    padding-top: 21px;
+}
+.safe{
+display: inline-block;
+}
+.hom_0{
+    margin-bottom: 35px;
+    padding: 12px 12px;
+    margin-left: 191px;
+    padding-left: 31px;
+    border: 0.8px solid #AFB0B9;
+   border-radius: 6px;
+   width: 220px;
+   padding-top: 21px;
+   padding-bottom: 21px;
+  padding-left: 31px;
+}
+.hom{
+    margin-bottom: 35px;
+    padding: 12px 12px;
+    margin-left: 191px;
+    padding-left: 31px;
+    border: 0.8px solid #AFB0B9;
+   border-radius: 6px;
+   width: 220px;
+   padding-top: 21px;
+   padding-bottom: 21px;
+  padding-left: 31px;
+ }
+.eyb{
+    padding-left: 81px;
+}
+.solo{
+    padding-left: 89px;
+}
+.das{
+    padding-left: 108px;
+    padding-top: 132px;
+}
+.old{
+    height: 52px;
+    width: 180px;
+    margin-top: 51px;
+    margin-left: 190px;
+    color: #FFFFFF;
+    background: #FB8F1D;
+    border-radius: 8px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    padding-left: 60px;
+    padding-right: 59px;
+    line-height: 60px;
+}
+.pol{
+    font-family: 'Playfair Display';
+font-style: normal;
+font-weight: 700;
+font-size: 36px;
+line-height: 50px;
+/* or 139% */
+color: #000000;
+mix-blend-mode: normal;
+}
+.box{
+  display: flex;
+}
+.rop{
+    font-family: 'Playfair Display';
+font-style: normal;
+font-weight: 700;
+font-size: 36px;
+line-height: 50px;
+/* or 139% */
+
+
+color: #000000;
+
+mix-blend-mode: normal;
+}
+.pos{
+    font-family: 'Mulish';
+font-style: normal;
+font-weight: 300;
+font-size: 17px;
+line-height: 30px;
+/* or 176% */
+
+
+color: #7D7987;
+
+mix-blend-mode: no
+}
+.ovay{
+    padding-left: 141px;
+    padding-top: 286px;
+}
+.baby{
+    display: flex;
+}
+.bub{
+    padding-top: 382px;
+}
+.bir{
+    display: flex;
+}
+.two{
+    display: flex;
+}
+.lorem_1{
+    border-style: solid;
+    background: #FB8F1D;
+    border-radius: 8px; 
+    font-family: 'Inter';
+    font-style: normal;
+   
+    font-size: 16px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    padding-left: 37px;
+    padding-right: 39px;
+    margin-bottom: 39px;
+ color: #FFFFFF;
+}
+#box-12{
+    padding-top: 26px;
+    padding-left: 163px;
+}
+.jiz{
+    font-family: 'Playfair Display';
+font-style: normal;
+font-weight: 700;
+font-size: 36px;
+line-height: 50px;
+/* identical to box height, or 139% */
+padding-left: 130px;
+padding-top: 292px;
+
+color: #000000;
+
+mix-blend-mode: normal;
+}
+.yemax{
+    display: flex;
+}
+.tp_1{
+position: relative;
+top: 310px;
+right: 185px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 17px;
+line-height: 60px;
+/* identical to box height, or 353% */
+
+color: #FB8F1D;
+
+mix-blend-mode: normal;
+}
+.homl{
+    position: relative;
+    top: 310px;
+    right: 175px; 
+}
+.saol{
+    padding-left: 560px;
+}
+.left{
+    position: relative;
+    left: 121px;
+    bottom: 191px;
+}
+.imigi_1{
+    padding-left: 190px;
+    padding-top: 56px;
+   justify-content: space-between;
+  display: flex;
+  align-items: center;
+}
+.olma{
+    font-family: 'Playfair Display';
+font-style: normal;
+font-weight: 700;
+font-size: 36px;
+line-height: 50px;
+/* or 139% */
+padding-top: 384px;
+
+color: #000000;
+
+mix-blend-mode: normal;
+
+}
+.piniclassi{
+    font-family: 'Mulish';
+font-style: normal;
+font-weight: 300;
+font-size: 17px;
+line-height: 30px;
+/* or 176% */
+padding-top: 20px;
+
+color: #7D7987;
+
+mix-blend-mode: normal;
+}
+.secton23{
+    display: flex;
+}
+.h1_2{
+    padding-left: 240px;
+}
+.kim{
+    border-style: solid;
+    background: #FB8F1D;
+    border-radius: 8px; 
+    font-family: 'Inter';
+    font-style: normal;
+   position: relative;
+   top: 33px;
+    font-size: 16px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    padding-left: 37px;
+    padding-right: 39px;
+  color: #FFFFFF;
+}
+.resm{
+    padding-top: 231px;
+    padding-left: 80px;
+}
+.ochma{
+    font-family: 'Playfair Display';
+font-style: normal;
+ padding-left: 107px;
+ font-weight: 700;
+font-size: 36px;
+padding-top: 341px;
+}
+.yulda{
+    padding-top: 145px;
+    padding-left: 107px;
+}
+.eyt{
+    font-family: 'Mulish';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 36px;
+/* or 150% */
+padding-left: 107px;
+padding-top: 30px;
+color: #000000;
+
+mix-blend-mode: normal;
+}
+.yolsa{
+    font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 22px;
+line-height: 48px;
+/* identical to box height, or 218% */
+padding-top: 40px;
+padding-left: 107px;
+color: #000000;
+mix-blend-mode: normal;
+}
+.donat{
+    font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 48px;
+/* identical to box height, or 267% */
+padding-left: 107px;
+color: rgba(0, 0, 0, 0.85);
+mix-blend-mode: normal;
+}
+.img_231{
+display: flex;
+}
+.img_111{
+    padding-top: 358px;
+}
+.h1_1{
+     padding-right: 107px;
+    padding-top: 370px;
+    font-family: 'Playfair Display';
+font-style: normal;
+font-weight: 700;
+font-size: 36px;
+line-height: 50px;
+/* identical to box height, or 139% */
+color: #000000;
+mix-blend-mode: normal
+}
+.class{
+display: flex;
+}
+.class_1{
+    padding-top: 26px;
+}
+.tp_1e{
+    position: relative;
+    top: 375px;
+    left: 95px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 17px;
+    line-height: 60px;
+    /* identical to box height, or 353% */
+    color: #FB8F1D;
+    mix-blend-mode: normal;
+}
+
+.tol{
+    background: #F9F9FB;
+    width: 1600px;
+    height: 482px;
+}
+.box_45{
+    padding-left: 191px;
+    padding-top: 78px;
+}
+.p_3{
+    font-family: 'Mulish';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 28px;
+    /* or 156% */
+    color: #848484;
+    mix-blend-mode: normal;
+    padding-top: 26px;
+}
+.p-1{
+    font-family: 'Mulish';
+font-style: normal;
+font-weight: 300;
+font-size: 17px;
+line-height: 28px;
+/* identical to box height, or 165% */
+padding-top: 55px;
+color: #848484;
+mix-blend-mode: normal;
+}
+.p-33{
+    font-family: 'Mulish';
+font-style: normal;
+font-weight: 300;
+font-size: 18px;
+line-height: 38px;
+/* or 211% */
+color: #848484;
+mix-blend-mode: normal;
+}
+.sys{
+    font-family: 'Mulish';
+font-style: normal;
+font-weight: 700;
+font-size: 19px;
+line-height: 60px;
+/* identical to box height, or 316% */
+color: #000000;
+mix-blend-mode: normal;
+}
+.suja{
+    font-family: 'Mulish';
+font-style: normal;
+font-weight: 700;
+font-size: 19px;
+line-height: 60px;
+/* identical to box height, or 316% */
+color: #000000;
+mix-blend-mode: normal;
+
+}
+.p-55{
+    font-family: 'Mulish';
+font-style: normal;
+font-weight: 300;
+font-size: 18px;
+line-height: 38px;
+/* or 211% */
+
+
+color: #848484;
+
+mix-blend-mode: normal;
+
+}
+.tol{
+    font-family: 'Playfair Display', serif;
+    display: flex;
+    padding-top: 70px;
+}
+.luk{
+    font-family: 'Mulish';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 19px;
+    line-height: 60px;
+    /* identical to box height, or 316% */
+    
+    
+    color: #000000;
+    
+    mix-blend-mode: normal;
+    
+}
+.p-89{
+    font-family: 'Mulish';
+font-style: normal;
+font-weight: 300;
+font-size: 18px;
+line-height: 38px;
+/* or 211% */
+color: #848484;
+mix-blend-mode: normal;
+}
+.poslas{
+padding-left: 240px;
+padding-top: 56px;
+
+}
+
+.hre{
+    padding: 0 300px 0 300px;
+}
+.ping{
+    padding-left: 104px;
+    padding-top:    30px;
+    padding-bottom: 32px;
+    justify-content: space-around;
+    display:flex;
+}
+.ding{
+    
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 19px;
+line-height: 30px;
+padding-top: 13px;
+/* or 158% */
+color: #000000;
+mix-blend-mode: normal;
+}
+.lold{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 26px;
+    /* or 173% */
+    padding-top: 13px;
+    color: #7D7987;
+    mix-blend-mode: normal;
+}
+.net{
+    
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 15px;
+line-height: 28px;
+/* identical to box height, or 187% */
+padding-top: 23px;
+color: #FB8F1D;
+mix-blend-mode: normal;
+}
